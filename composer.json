@@ -1,0 +1,12 @@
+{
+    "name": "root/test",
+    "require": {
+        "phpunit/phpunit": "~4.6"
+    },
+    "authors": [
+        {
+            "name": "emul",
+            "email": "emul@emul.hu"
+        }
+    ]
+}
